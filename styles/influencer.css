@@ -237,6 +237,33 @@ main > section{
     border-radius: 0px;
 }
 
+footer{
+    background-color: rgb(4, 4, 27);
+    margin-top: 100px;
+}
+
+.footer-content{
+    max-width: 262px;
+    margin: 0 auto;
+    padding: 50px 50px;
+    text-align: center;
+}
+
+.footer-title{
+    color: white;
+    font-size: 1.5rem;
+}
+
+.footer-des, .fd-2{
+    color: rgba(217, 219, 225, 1);
+    font-size: 0.875rem;
+}
+
+.links a{
+    text-decoration: none;
+    color: white;
+    margin: 0 8px 0 8px;
+}
 
 /* media query for small devices */
 
